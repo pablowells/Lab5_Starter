@@ -1,6 +1,7 @@
 # Lab 5 - Starter
 Pablo Wells (no partners)
-Website: https://pablowells.github.io/Lab5_Starter/expose.html
+Expose: https://pablowells.github.io/Lab5_Starter/expose.html
+Explore: https://pablowells.github.io/Lab5_Starter/explore.html
 
 1) Would you use a unit test to test the “message” feature of a messaging application? Why or why not? For this question, assume the “message” feature allows a user to write and send a message to another user.
 - I would avoid using a unit test to test the "message" feature of a messaging app. This is because sending a message, especially between users, involves multiple componenets of a program working together. This structure does not lend itself to being tested via unit tests as unit tests excel in testing small isolated components. 
